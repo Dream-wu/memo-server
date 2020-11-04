@@ -6,4 +6,5 @@ v12.14.1(npm v6.13.4)
 
 ## 数据库
 mysql Database: memo_electron
+
 建表语句查看app/mysql/create.sql文件
